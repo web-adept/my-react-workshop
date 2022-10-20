@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-react-workshop/countdown-timer/static/css/main.ff70ed7f.css",
+    "main.js": "/my-react-workshop/countdown-timer/static/js/main.b1a88110.js",
+    "index.html": "/my-react-workshop/countdown-timer/index.html",
+    "main.ff70ed7f.css.map": "/my-react-workshop/countdown-timer/static/css/main.ff70ed7f.css.map",
+    "main.b1a88110.js.map": "/my-react-workshop/countdown-timer/static/js/main.b1a88110.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff70ed7f.css",
+    "static/js/main.b1a88110.js"
+  ]
+}
